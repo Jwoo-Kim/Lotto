@@ -6,7 +6,7 @@
 (Android 10.0, Android SDK Build Tools 31-rc5, Android Emulator version 30.6.5, Android SDK Platform-Tools version 31.0.2, Intel x86 EmulatorAccelerator (HAXM installer) version 7.6.5)
 -  Java 
 
-### 실행영상 링크 :
+### 실행영상 다운로드 링크 :
 - https://github.com/Jwoo-Kim/Lotto/blob/main/%EC%8B%A4%ED%96%89%EC%98%81%EC%83%81.7z
 
 ### 포트폴리어 PDF :
